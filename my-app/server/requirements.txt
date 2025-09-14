@@ -1,0 +1,6 @@
+flask
+flask-cors
+python-multipart
+gunicorn
+opencv-python
+scikit-image
