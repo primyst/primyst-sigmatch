@@ -50,7 +50,7 @@ export default function SignatureVerifier() {
 
   return (
     <div className="max-w-md mx-auto p-6 bg-white shadow-xl rounded-2xl space-y-6">
-      <h1 className="text-2xl font-bold text-center text-gray-800">Handwriting and Signature Verification WebApp</h1>
+      <h1 className="text-2xl font-bold text-center text-gray-800 uppercase">Handwriting and Signature Verification</h1>
 
       {/* Mode Selector */}
       <div>
